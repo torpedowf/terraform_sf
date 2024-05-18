@@ -1,0 +1,3 @@
+YCAJEkkZe9vD6SCFk64ydImMW  #индефикатор ключа
+
+YCPY6nbB6q19SLE9aa1DX3TqkUXyxaAZk3GyX9-t #статический секретный ключ
