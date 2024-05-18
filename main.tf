@@ -33,7 +33,7 @@ required_version = ">= 0.13"
 # Документация к провайдеру тут https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs#configuration-reference
 # Настраиваем the Yandex.Cloud provider
 provider "yandex" {
-  service_account_key_file = file("C:/Users/asus/Desktop/Less/terraform/authorized_key.json")
+  service_account_key_file = file("C:/Users/asus/Desktop/keys/authorized_key.json")
   cloud_id                 = "default"
   folder_id                = "b1g4ea1ilh3n5q346576"
   zone                     = "ru-central1-b" # зона, которая будет использована по умолчанию
